@@ -5,9 +5,9 @@
 // @version      1.2
 // @description  Нажатие на Enter включает полноэкранный режим, если ты не пишешь комментарий
 // @description:en Press Enter to toggle fullscreen mode if you are not typing a comment
-// @author       Digital Dark & Ai
+// @author       Darkness-83 & Ai
 // @match        *://*.youtube.com/*
-// @license      MIT
+// @license      GPL-3.0
 // @grant        none
 // ==/UserScript==
 
